@@ -1,0 +1,5 @@
+virtualenv env (to create a new environment)
+source env/bin/acitvate (activate the environment)
+
+pip3 install gunicorn (to save the requirements)
+pip3 freeze > requirements.txt (to save the requirements)
