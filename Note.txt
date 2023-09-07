@@ -1,3 +1,4 @@
+pip3 install virtualenv (to install virtualenv using pip)
 virtualenv env (to create a new environment)
 source env/bin/acitvate (activate the environment)
 
